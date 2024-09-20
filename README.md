@@ -11,4 +11,7 @@
 * ( Open Parenthesis
 * ) Closed Parenthesis
 ## Links
-* 
+* [GitHub Pages](https://pages.github.com/)
+* [Khan Academy](https://www.khanacademy.org/)
+## Expirements
+:blush: :boom: :relieved:
