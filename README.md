@@ -13,7 +13,7 @@
 ## Links
 * [GitHub Pages](https://pages.github.com/)
 * [Khan Academy](https://www.khanacademy.org/)
-## Expirements
+## Experiments
 :blush: :boom: :relieved:
 ## Keyboard Shortcuts
 - Ctrl-C (Copy)
