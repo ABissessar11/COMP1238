@@ -19,7 +19,7 @@
 - Ctrl-C (Copy)
 - Ctrl-V (Paste)
 - Ctrl-B (Bold)
-#Shortcuts I would like to start using:
+### Shortcuts I would like to start using:
 - Ctrl-A (Select All)
 - Win-D (Show or hide desktop)
 - Alt+Tab (Switch Apps)
