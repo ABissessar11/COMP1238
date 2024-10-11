@@ -13,7 +13,7 @@
 ## Links
 * [GitHub Pages](https://pages.github.com/)
 * [Khan Academy](https://www.khanacademy.org/)
-* [CLI Commands](ABissessar11/COMP1238/cli.md)
+* [CLI Commands](https://github.com/ABissessar11/COMP1238/blob/main/cli.md)
 ## Experiments
 :blush: :boom: :relieved:
 ## Keyboard Shortcuts
